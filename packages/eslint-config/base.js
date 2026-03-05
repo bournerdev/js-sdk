@@ -84,7 +84,6 @@ module.exports = {
         /* Other overrides */
         "no-extra-boolean-cast": "off",
         "comment-length/limit-single-line-comments": ["error", commentOptions],
-        "comment-length/limit-multi-line-comments": ["error", commentOptions],
         "comment-length/limit-multi-line-comments": [
           "error",
           {
